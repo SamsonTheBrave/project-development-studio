@@ -4,17 +4,17 @@
 	<title> This Is Project Development Site</title>
 </head>
 <body>
-	<h1>Weekly Updates</h1>
+	<h1>Week 2</h1>
 	<ul>
 		<li>
 			<a href="http://samsonthebrave.github.io/project-development-studio/week_1/">Week 1</a>
 		</li>
-		<li>
-			<a href="http://samsonthebrave.github.io/project-development-studio/week_2/">Week 2</a>
-		</li>
 	</ul>
-
+	<p>
+		A series of Smart Objects:
+	</p>
 </body>
 
 </html>
 
+	
